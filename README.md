@@ -1,2 +1,2 @@
-# CS-340
-CS 340 Client/Server Development coursework and portfolio projects.
+# CS-360
+CS 360 Mobile Architecture and Programming projects focused on Android app development, user interface design, database integration, and mobile application functionality.
