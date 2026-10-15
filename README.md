@@ -18,6 +18,10 @@ I approached the development process by breaking the application into smaller co
 
 I tested the application using the Android Studio emulator to make sure the main features worked correctly. My testing included creating accounts, logging in, adding inventory items, navigating between screens, and configuring SMS notification settings. I also verified that inventory information was being saved and displayed through the SQLite database. During testing, I encountered emulator performance issues that caused the system to become unresponsive. Restarting and cold booting the emulator helped resolve these problems. Although I successfully tested the SMS permission and settings functionality, I could not verify actual SMS delivery through the emulator. This experience showed me why testing is important for identifying problems and confirming that an application behaves as expected.
 
-## Challenges and Problem-Solving
+Challenges and Problem-Solving
 
-One of the biggest challenges was turning the interface I designed in Project Two into a working application for
+One of the biggest challenges was turning the interface I designed in Project Two into a working application for Project Three. I had to connect multiple components, including the database, inventory controls, and SMS settings, while making sure the app remained easy to use. Another challenge involved troubleshooting the Android emulator when it became slow or stopped responding. Instead of changing multiple things at once, I worked through each issue individually and tested the application after making adjustments. This helped me identify what was causing problems and find solutions without disrupting features that were already working.
+
+Skills and Accomplishments
+
+The component I am most proud of is the database integration and inventory management functionality. Developing the SQLite database and connecting it to the application's interface gave me a better understanding of how mobile applications store, retrieve, and display information. I also gained experience implementing user authentication, handling permissions, and managing interactions between different Android activities. Seeing the application progress from an initial UI design into a functional mobile app was one of the most rewarding parts of the project. Overall, this experience strengthened my Java programming, debugging, and mobile development skills while giving me a project I can showcase in my computer science portfolio.
